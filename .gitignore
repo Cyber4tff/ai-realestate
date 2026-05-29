@@ -1,0 +1,33 @@
+# Node.js / React / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Python / Poetry / VirtualEnvs
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+ENV/
+*.spec
+
+# Databases, Cache, and OS
+*.db
+*.db-journal
+.env
+.env.local
+.env.*.local
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
